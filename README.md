@@ -11,6 +11,10 @@ GhostWriter Forensics is a sophisticated forensic tool designed to distinguish b
 * **Database**: H2 In-Memory Database (SQL) for persistent scan history
 * **Analysis Engine**: Python 3 utilizing Radon and Lizard metrics
 
+## 👥 Contributors
+* **Lead Developer**: [@tanmay-1208](https://github.com/tanmay-1208)
+* **Forensic Specialist**: [@shagz-tech](https://github.com/shagz-tech)
+
 ---
 
 ## 🛠️ Installation & Setup
