@@ -15,6 +15,12 @@ GhostWriter Forensics is a sophisticated forensic tool designed to distinguish b
 
 ## 🛠️ Installation & Setup
 
+## 🔍 Key Source Code
+* [Forensic Logic (Java)](backend/src/main/java/com/ghostwriter/backend/service/ForensicService.java)
+* [API Controller (Java)](backend/src/main/java/com/ghostwriter/backend/controller/ForensicController.java)
+* [AI Analysis Engine (Python)](ghostwriter-ai/analyzer.py)
+* [Dashboard UI (React)](ghostwriter-frontend/src/App.js)
+
 ### 1. Analysis Engine (Python)
 Ensure your system has Python 3.9+ and the required forensic libraries installed:
 ```bash
